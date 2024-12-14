@@ -26,9 +26,9 @@ class Solution {
         for(int i=0;i<levelsize;i++){
             TreeNode node=q1.poll();
             if (i == 0) {
-                rs.add(node.val); // Corrected to use node.val
+                rs.add(node.val); 
             }
-                if(node.left!=null){
+            if(node.left!=null){
                 q1.add(node.left);
             }
             if(node.right!=null){
@@ -37,7 +37,6 @@ class Solution {
             
         }
       }
-      System.out.println(rs);
       return rs.get(rs.size()-1);
     }
 }
