@@ -19,10 +19,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0027-remove-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -61,8 +63,17 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
