@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
