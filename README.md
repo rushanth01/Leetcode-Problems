@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rushanth01/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -119,6 +122,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0013-roman-to-integer](https://github.com/rushanth01/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
