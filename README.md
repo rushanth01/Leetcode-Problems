@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0152-maximum-product-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rushanth01/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -34,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rushanth01/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
@@ -77,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
