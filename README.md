@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rushanth01/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rushanth01/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rushanth01/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0035-search-insert-position](https://github.com/rushanth01/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
