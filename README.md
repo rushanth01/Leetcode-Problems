@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rushanth01/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rushanth01/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -88,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -151,4 +154,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0011-container-with-most-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
