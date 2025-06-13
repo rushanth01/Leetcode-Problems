@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/rushanth01/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/rushanth01/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0058-length-of-last-word](https://github.com/rushanth01/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/rushanth01/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String Matching
 |  |
 | ------- |
