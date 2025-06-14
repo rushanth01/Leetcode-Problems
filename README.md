@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0198-house-robber](https://github.com/rushanth01/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1677-matrix-diagonal-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -82,12 +83,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
