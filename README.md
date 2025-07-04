@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1677-matrix-diagonal-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rushanth01/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0007-reverse-integer](https://github.com/rushanth01/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/rushanth01/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rushanth01/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
