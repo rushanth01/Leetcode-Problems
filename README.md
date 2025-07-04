@@ -84,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/rushanth01/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0064-minimum-path-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rushanth01/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/rushanth01/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0058-length-of-last-word](https://github.com/rushanth01/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/rushanth01/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rushanth01/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String Matching
 |  |
