@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rushanth01/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1677-matrix-diagonal-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
