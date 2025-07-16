@@ -129,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0007-reverse-integer](https://github.com/rushanth01/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/rushanth01/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/rushanth01/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3830-find-closest-person](https://github.com/rushanth01/Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rushanth01/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -176,6 +177,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rushanth01/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rushanth01/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
