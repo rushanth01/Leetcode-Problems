@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0954-maximum-sum-circular-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rushanth01/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1677-matrix-diagonal-sum](https://github.com/rushanth01/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
+| [1813-maximum-erasure-value](https://github.com/rushanth01/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rushanth01/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -51,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0389-find-the-difference](https://github.com/rushanth01/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rushanth01/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1813-maximum-erasure-value](https://github.com/rushanth01/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rushanth01/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
@@ -214,4 +216,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/rushanth01/Leetcode-Problems/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/rushanth01/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
