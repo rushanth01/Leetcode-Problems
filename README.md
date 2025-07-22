@@ -173,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/rushanth01/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rushanth01/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3396-valid-word](https://github.com/rushanth01/Leetcode-Problems/tree/master/3396-valid-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rushanth01/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
