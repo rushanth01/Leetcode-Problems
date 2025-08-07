@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/rushanth01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rushanth01/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/rushanth01/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -96,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/rushanth01/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/rushanth01/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Sorting
@@ -191,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0069-sqrtx](https://github.com/rushanth01/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushanth01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/rushanth01/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rushanth01/Leetcode-Problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/rushanth01/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rushanth01/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
