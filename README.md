@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/rushanth01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rushanth01/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rushanth01/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/rushanth01/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0898-transpose-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/rushanth01/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rushanth01/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -56,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0387-first-unique-character-in-a-string](https://github.com/rushanth01/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rushanth01/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rushanth01/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/rushanth01/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rushanth01/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1813-maximum-erasure-value](https://github.com/rushanth01/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -212,10 +214,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/rushanth01/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rushanth01/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/rushanth01/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
