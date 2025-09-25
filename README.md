@@ -153,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0069-sqrtx](https://github.com/rushanth01/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/rushanth01/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/rushanth01/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/rushanth01/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3830-find-closest-person](https://github.com/rushanth01/Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rushanth01/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -169,6 +170,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rushanth01/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/rushanth01/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rushanth01/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -244,4 +246,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/rushanth01/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rushanth01/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
